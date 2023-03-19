@@ -1,3 +1,3 @@
 # dd
 A website I also have hidden somewhere here! This one is really tough to find...
-On a side note, I have been inactive, but that is only because I stopped working with open source.
+On a side note, I have been inactive, but that is only because I stopped working with open source (Well, not permanently, just worked on some personal projects briefly).
